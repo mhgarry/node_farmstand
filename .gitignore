@@ -1,0 +1,11 @@
+node_modules/
+yarn.lock
+yarn-degub.log*
+.DS_Store
+.log
+.log*
+npm-deb.log*
+yarn-error.log*
+txt/
+.txt*
+data.json
