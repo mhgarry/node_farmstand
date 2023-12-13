@@ -9,3 +9,4 @@ yarn-error.log*
 txt/
 .txt*
 data.json
+filesync.js

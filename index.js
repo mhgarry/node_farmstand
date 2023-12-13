@@ -1,4 +1,4 @@
-const http = require('http'); // built in http module gives networking capabilites
+const http = require('http'); // built in http module gives networking capabilities
 let url = require('url'); // built in url module gives us url parsing and routing capabilities
 const fs = require('fs');
 const replaceTemplate = require('./modules/replaceTemplate'); // import our replaceTemplate module
